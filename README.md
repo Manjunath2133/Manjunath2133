@@ -1,113 +1,65 @@
-Hi there, I'm K Manjunath <img src="https://www.google.com/url?sa=E&source=gmail&q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<p align="left">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://kmanjunathportfolio.vercel.app/" target="_blank">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge%26logo=hugo%26logoColor=white" alt="portfolio">
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/kmanjunath2133" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin">
-</a>
-</p>
-
-👨‍💻 About Me
-I'm a passionate Computer Science Engineering student from Bangalore, India, with a strong foundation in full-stack web development and a keen interest in Machine Learning and Generative AI. I thrive on solving complex problems and have a track record of success in national-level hackathons.
-
-🔭 I’m currently working on enhancing my portfolio with more complex projects.
-
-🌱 I’m currently learning about Supervised Machine Learning and its real-world applications.
-
-👯 I’m looking to collaborate on innovative open-source projects.
-
-⚡ Fun fact: I'm a committee member of the Karnataka Film Chamber of Commerce!
-
-🛠️ My Tech Stack
-Languages
-
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-</p>
-
-Frontend Development
-
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
-
-Backend & Databases
-
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
-
-Tools
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
-</p>
-
-📊 My GitHub Stats
-<!-- Change YOUR_GITHUB_USERNAME to your GitHub username to make this work -->
+<h1 align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"/>
+K Manjunath
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"/>
+</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dradical%26rank_icon%3Dgithub" alt="K Manjunath's GitHub Stats">
-<br>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages">
+A passionate Full-Stack Developer & Computer Science Student from India.
 </p>
 
-🚀 My Projects
-🌐 Personal Portfolio Website
-
-A responsive web application showcasing my personal projects, resume, and technical skills.
-
-Technologies: React.js, TailwindCSS, JavaScript, Node.js, PostgreSQL
-
-💸 Expense Tracker
-
-A web application for recording daily expenses and visualizing spending patterns using interactive charts and categorized summaries.
-
-Technologies: React.js, JavaScript, Express.js
-
-🏆 Achievements & Education
-<details>
-<summary><strong>Click to view Achievements & Education</strong></summary>
-
-🎓 Education
-
-BE - Bachelor of Computer Science and Engineering
-
-Sambhram Institute of Technology, Bangalore
-
-(2022 - 2026) | CGPA: 9.24
-
-✨ Key Achievements
-
-Academic Excellence: Secured 42nd rank among 1.2 lakh students across all VTU-affiliated engineering colleges in the 6th semester.
-
-College Topper: Awarded for academic excellence.
-
-IBM EcoEquify Hackathon: Ranked among the top 25 teams out of 500+ participants.
-
-VTU Hack-2-Intern Challenge: Successfully cleared the technical writing assessment.
-
-</details>
-
-📫 Let's Connect!
-You can reach me via email at kmanjunath2133@gmail.com or connect with me on the platforms below.
-
-<p align="left">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://kmanjunathportfolio.vercel.app/" target="_blank">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge%26logo=hugo%26logoColor=white" alt="portfolio">
+<p align="center">
+<a href="https://kmanjunathportfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/kmanjunath2133" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin">
+<a href="https://linkedin.com/in/kmanjunath2133" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
+<a href="mailto:kmanjunath2133@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 </a>
 </p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h2 align="center">👨‍💻 About Me</h2>
+<ul>
+<li>🎓 Studying Computer Science at <b>Sambhram Institute of Technology, Bangalore</b>.</li>
+<li>💡 Interested in Full-Stack Development, Machine Learning, and Generative AI.</li>
+<li>🚀 Currently building my skills in supervised learning and creating real-world applications.</li>
+<li>🏆 <b>Top 25</b> at IBM EcoEquify Hackathon & <b>42nd Rank</b> in VTU (6th Sem).</li>
+</ul>
+<hr>
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Manjunath2133&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjunath2133&theme=tokyonight" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath2133&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+<hr>
+<h2 align="center">🚀 My Projects</h2>
+<ul>
+<li><b><a href="https://kmanjunathportfolio.vercel.app/">Personal Portfolio Website</a></b>: A responsive web app showcasing my projects and skills.</li>
+<li><b>Expense Tracker</b>: A web app for recording and visualizing daily expenses.</li>
+<li><b>ColdReach App</b>: Automated job application system with email and cover letter generation.</li>
+<li><b>House Price Prediction ML Project</b>: Predict house prices using regression models with feature engineering and visualization.</li>
+</ul>
+</td>
+</tr>
+</table>
